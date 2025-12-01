@@ -71,10 +71,6 @@ QR code scan to turn off alarm
 
 ---
 
-📦 APK & Source Code
-
-📱 Downloadable APK for Android 8–14
-
 🧩 Clean and structured source code
 
 ⚙️ Simple setup process
